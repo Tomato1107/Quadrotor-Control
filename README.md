@@ -7,3 +7,8 @@ Recommanded Python 3.6\
 Then cd <your workspace>/meam620-2020/proj1_3/code\
 run sandbox.py to view the demo.
 
+![](maze.gif)
+
+![](over_down.gif)
+
+![](window.gif)
