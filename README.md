@@ -9,6 +9,6 @@ run sandbox.py to view the demo.
 
 ![](maze.gif)
 
-![](over_down.gif)
+![](up_down.gif)
 
 ![](window.gif)
